@@ -4,7 +4,7 @@
 
 This is a very interesting competition provided by Kaggle. I believe that all the entry level Machine Learning enthusiasts should definitely get their hands-on to this competition as well as the [Titanic Survivor Prediction competition ](https://www.kaggle.com/c/titanic). One can also check [my notebook](https://www.kaggle.com/darshanjain29/titanic-survival-from-top-70-to-top-7-on-lb) on the same.
 
-Click to see my [kaggle solution](https://www.kaggle.com/darshanjain29/house-price-prediction-top-in-94-to-top-in-28/)
+Click to see my [kaggle solution notebook](https://www.kaggle.com/darshanjain29/house-price-prediction-top-in-94-to-top-in-28/)
 
 Coming back to this competition, as it says that the problem is predicting house price i.e. a continuous value. Hence it is a regression problem and thus all your basic regression knowledge will be tested here.
 
